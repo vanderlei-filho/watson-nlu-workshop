@@ -1,0 +1,26 @@
+[
+  {
+    "text": "Amanhã vai chover?",
+    "labels": [
+      "Previsão Climática"
+    ]
+  },
+  {
+    "text": "Vai fazer sol no final de semana?",
+    "labels": [
+      "Previsão Climática"
+    ]
+  },
+  {
+    "text": "Está quente lá fora?",
+    "labels": [
+      "Temperatura"
+    ]
+  },
+  {
+    "text": "Quantos graus está hoje?",
+    "labels": [
+      "Temperatura"
+    ]
+  }
+]
